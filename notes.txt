@@ -1,0 +1,4 @@
+***WORK IN PROGRESS***
+like the invention of vulcanized rubber the first binaries were compiled by accident.
+
+g++ grail.cpp -Wno-deprecated  -O2 -o grail.exe -lm -lstdc++ -static-libgcc -static-libstdc++
